@@ -1,12 +1,10 @@
-body {
-    background-color:hotpink;
+p{
     text-align: center;
 }
+body {
+    background-color:hotpink
 
-.negrito{
-    font-size: 20xp;
 }
-
 .banner{
  width: 100%;   
 }
